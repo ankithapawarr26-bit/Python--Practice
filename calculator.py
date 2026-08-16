@@ -1,0 +1,6 @@
+a=int(input("Enter number 1"))
+b=int(input("Enter number 2"))
+print(f"Addition of 2 numbers {a+b} ")
+print(f"Subtraction of 2 numbers {a-b} ")
+print(f" Multiplication of 2 numbers {a×b}")
+print(f"Division of 2 numbers {a÷b} ")
